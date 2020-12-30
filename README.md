@@ -1,2 +1,1 @@
-# restaurant-store-page
-Vue.js
+React.JS Restaurant-store-page
